@@ -14,7 +14,7 @@
         "major":"16590", 
         "minor":"55402", 
         "title":"blue",
-        "onEntryURL":"",
-        "onExitURL":""
+        "onEntryURL":"http://pusherauth.blocksauth.com/beacon/ping?channel=anz-beacon&beacon_id=entered",
+        "onExitURL":"http://pusherauth.blocksauth.com/beacon/ping?channel=anz-beacon&beacon_id=exited"
     }
 ]}
