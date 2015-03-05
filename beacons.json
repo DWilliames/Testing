@@ -1,0 +1,34 @@
+{"beacons":[
+    {
+        "uuid":"B9407F30-F5F8-466E-AFF9-25556B57FE6D", 
+        "major":"37400", 
+        "minor":"20198", 
+        "title":"green",
+        "url-actions":[
+            {
+                "action-type":"onEntry",
+                "url":""
+            },
+            {
+                "action-type":"onExit",
+                "url":""
+            }
+        ]
+    }, 
+    {
+        "uuid":"B9407F30-F5F8-466E-AFF9-25556B57FE6D", 
+        "major":"16590", 
+        "minor":"55402", 
+        "title":"blue",
+        "url-actions":[
+            {
+                "action-type":"onEntry",
+                "url":""
+            },
+            {
+                "action-type":"onExit",
+                "url":""
+            }
+        ]
+    }
+]}
