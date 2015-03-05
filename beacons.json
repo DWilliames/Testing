@@ -5,16 +5,8 @@
         "major":"37400", 
         "minor":"20198", 
         "title":"green",
-        "url-actions":[
-            {
-                "action-type":"onEntry",
-                "url":""
-            },
-            {
-                "action-type":"onExit",
-                "url":""
-            }
-        ]
+        "onEntryURL":"",
+        "onExitURL":""
     }, 
     {
         "id":2,
@@ -22,15 +14,7 @@
         "major":"16590", 
         "minor":"55402", 
         "title":"blue",
-        "url-actions":[
-            {
-                "action-type":"onEntry",
-                "url":""
-            },
-            {
-                "action-type":"onExit",
-                "url":""
-            }
-        ]
+        "onEntryURL":"",
+        "onExitURL":""
     }
 ]}
