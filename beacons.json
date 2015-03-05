@@ -5,8 +5,8 @@
         "major":"37400", 
         "minor":"20198", 
         "title":"green",
-        "onEntryURL":"Welcome to the ANZ Digital Innovation!",
-        "onExitURL":""
+        "onEntryURL":"Welcome to ANZ Digital Innovation!",
+        "onExitURL":"Thankyou for visiting ANZ Digital Innovation!"
     }, 
     {
         "id":2,
