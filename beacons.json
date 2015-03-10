@@ -6,7 +6,7 @@
         "minor":"20198", 
         "title":"green",
         "onEntry":"Welcome to ANZ Digital Innovation!",
-        "onExit":"Thankyou for visiting ANZ Digital Innovation!"
+        "onExit":""
     }, 
     {
         "id":2,
