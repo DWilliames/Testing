@@ -5,8 +5,8 @@
         "major":"37400", 
         "minor":"20198", 
         "title":"green",
-        "onEntryURL":"Welcome to ANZ Digital Innovation!",
-        "onExitURL":"Thankyou for visiting ANZ Digital Innovation!"
+        "onEntry":"Welcome to ANZ Digital Innovation!",
+        "onExit":"Thankyou for visiting ANZ Digital Innovation!"
     }, 
     {
         "id":2,
@@ -14,7 +14,7 @@
         "major":"16590", 
         "minor":"55402", 
         "title":"blue",
-        "onEntryURL":"http://pusherauth.blocksauth.com/beacon/ping?channel=anz-beacon&beacon_id=entered",
-        "onExitURL":"http://pusherauth.blocksauth.com/beacon/ping?channel=anz-beacon&beacon_id=exited"
+        "onEntry":"http://pusherauth.blocksauth.com/beacon/ping?channel=anz-beacon&beacon_id=entered",
+        "onExit":"http://pusherauth.blocksauth.com/beacon/ping?channel=anz-beacon&beacon_id=exited"
     }
 ]}
