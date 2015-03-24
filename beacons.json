@@ -5,8 +5,8 @@
         "major":"37400", 
         "minor":"20198", 
         "title":"green",
-        "onEntry":"Welcome to ANZ Digital Innovation!",
-        "onExit":""
+        "onEntry":"Welcome to ANZ Digital Innovation - it's the place to be!",
+        "onExit":"Thankyou for visiting the Digital Innovaiton lab!"
     }, 
     {
         "id":2,
